@@ -3,7 +3,7 @@ package com.sqisland.android.hello;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity {
+public class MainActivity Activity {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
